@@ -19,12 +19,3 @@ Recém estudante, apaixonado e entusiasmado para novos conhecimentos sobre Front
 
 ## Meu email para contato:
 📧 <link> matheusmunizalmeida171@hotmail.com
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="Saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div><br/>
-
-Recém estudante, apaixonado e entusiasmado para novos conhecimentos sobre Front-end.
-
-## Meu email para contato:
-📧 <link> matheusmunizalmeida171@hotmail.com
