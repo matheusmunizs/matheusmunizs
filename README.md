@@ -15,7 +15,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-Recém estudante , apaixonado e entusiasmado para novos conhecimentos sobre Front-end.
+Recém estudante, apaixonado e entusiasmado para novos conhecimentos sobre Front-end.
 
 ## Meu email para contato:
 📧 <link> matheusmunizalmeida171@hotmail.com
