@@ -5,6 +5,8 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmunizs&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmunizs)](https://github.com/matheusmunizs/github-readme-stats)
+
 ## Tecnologias que uso atualmente
 
 <div style="display: inline_block"><br/>
