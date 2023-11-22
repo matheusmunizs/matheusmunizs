@@ -15,7 +15,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-Recém estudante, apaixonado e entusiasmado para novos conhecimentos e a procura da minha primeira experiências profisiionais como Front-end.
+Recém estudante, apaixonado e super curioso para novos conhecimentos no entanto a procura da minha primeira experiência profissional como Front-end.
 
 ## Meu email para contato:
 📧 <link> matheusmunizalmeida171@hotmail.com
